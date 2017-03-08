@@ -1,0 +1,6 @@
+<meta>
+	<info name="Notification example script" author="denny199" version="1.0" type="misc" />
+	
+	<!-- CLIENTSIDE SCRIPTS -->
+	<script src="notifications_client.lua" type="client" />
+</meta>
